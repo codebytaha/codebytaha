@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Taha Ehsan Ullah Butt</h1>
 <h3 align="center">A passionate Data Scientist aiming to Solve Real World Problems and Specially helping Banks Connecting with AI for better Growth and Understanding Customer Behavior.</h3>
-(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/media/9e5055da2ee6c899aab9403ceb7d0dc3.gif")
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/8a9c7f854df987a0b488caf7b4ca6fb56e368e1a0b85602574da94c19d1c2d2e/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codebytaha&label=Profile%20views&color=0e75b6&style=flat" alt="codebytaha" /> </p>
 
@@ -9,8 +9,6 @@
 - 🌱 I’m currently learning **Deep Learning, ANN**
 
 - 👯 I’m looking to collaborate on **Machine Learning,ChatBots Project solving real world Problem**
-
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/taha-the-data-analyst/](https://www.linkedin.com/in/taha-the-data-analyst/)
 
 - 💬 Ask me about **Machine learning, AI, LLm's, Books**
 

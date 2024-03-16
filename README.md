@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **tahapsycho07@gmail.com**
 
-- ⚡ Fun fact **I am a gym Guy and love to read Books.**
+- ⚡ Fun fact **I am a gym Guy and love reading Books.**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
